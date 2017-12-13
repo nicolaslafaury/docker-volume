@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM i386/ubuntu:latest
 MAINTAINER Herve Meftah <dockerlite@gmail.com>
 
 RUN apt-get update
